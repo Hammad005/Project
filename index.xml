@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<APTECH>
+<classes>
+<Batches>
+<AP-09C>
+<NAME>Hammad</NAME>
+<TIMING>11 TO 1</TIMING>
+<NAME>Irfan</NAME>
+<TIMING>11 TO 1</TIMING>
+<NAME>Lareb</NAME>
+<TIMING>11 TO 1</TIMING>
+<NAME>Fatima</NAME>
+<TIMING>11 TO 1</TIMING>
+<NAME>Omar</NAME>
+<TIMING>11 TO 1</TIMING>
+<NAME>Saad</NAME>
+<TIMING>11 TO 1</TIMING>
+<NAME>Arham</NAME>
+<TIMING>11 TO 1</TIMING>
+<NAME>Ashhad</NAME>
+<TIMING>11 TO 1</TIMING>
+<NAME>Somnath</NAME>
+<TIMING>11 TO 1</TIMING>
+<NAME>Anas</NAME>
+<TIMING>11 TO 1</TIMING>
+<NAME>Moazam</NAME>
+<TIMING>11 TO 1</TIMING>
+</AP-09C>
+<AP-08C>
+<NAME>Abbas</NAME>
+<TIMING>9 TO 11</TIMING>
+<NAME>Fatima</NAME>
+<TIMING>9 TO 11</TIMING>
+<NAME>Sonu</NAME>
+<TIMING>9 TO 11</TIMING>
+<NAME>Rehmat</NAME>
+<TIMING>9 TO 11</TIMING>
+</AP-08C>
+</Batches>
+</classes>
+<Staff>
+<NAME>Miss Anum</NAME>
+<NAME>Miss Fatima</NAME>
+<NAME>Miss Urooj</NAME>
+<NAME>Miss Sadia</NAME>
+<NAME>Miss Sadaf</NAME>
+<NAME>Sir Taha</NAME>
+<NAME>Sir Zulfikar</NAME>
+<NAME>Sir Haris</NAME>
+<NAME>Sir Hasnain</NAME>
+<NAME>Sir Bilal</NAME>
+</Staff>
+</APTECH>
